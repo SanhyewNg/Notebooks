@@ -1,0 +1,12 @@
+
+
+
+VS Code
+
+    Jupyter Notebook and Markdown Inconsistance
+        Outline Headings 
+        bash & code snippets view in notebooks
+
+
+    
+
